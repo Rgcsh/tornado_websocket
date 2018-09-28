@@ -1,0 +1,6 @@
+.left{
+	width: 33%;
+	float: left;
+	border: 1px solid red;
+	text-align: left;
+}
